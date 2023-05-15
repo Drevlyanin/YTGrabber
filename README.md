@@ -31,8 +31,3 @@ Get ready to build your own video collection with YTGrabber!
 ## Contributing
 
 Contributions are welcome! If you have any ideas or improvements to enhance YTGrabber, feel free to open an issue or submit a pull request.
-
-## License
-
-YTGrabber is released under the MIT License. See [LICENSE](LICENSE) for more information.
-
